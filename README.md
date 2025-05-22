@@ -1,4 +1,4 @@
 # MyFirstXcodeProject
 
-This is my first SwiftUI project.
+Uploading a SwiftUI project to GitHub
 
